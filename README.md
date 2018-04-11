@@ -6,7 +6,7 @@ This simulates fleet combat from the game Galactic Civilizations 2.
 
 Never add speed to ships.
 Always give ships the same priority
-Assume 40%, 30%, 20%, 5%, 5% distribution of ship sizes
+Assume 25%, 25%, 40%, 5%, 5% distribution of ship sizes
 
 ### Questions to Answer:
 
