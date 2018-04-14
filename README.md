@@ -11,7 +11,8 @@ Ship sizes:
     Tier 1: 50%, 25%, 25%
     Tier 2a: 0%, 50%, 50%
     Tier 2b: 0%, 50%, 25%, 25%    
-    Tier 2b: 0%, 0%, 50%, 25%, 25%        
+    Tier 2b: 0%, 0%, 50%, 25%, 25%  
+Try to give the largest ship the lowest priority, so they survive
 
 ### Questions to Answer:
 
